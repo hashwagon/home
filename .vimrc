@@ -55,7 +55,7 @@ highlight CocHintFloat ctermfg=Red  guifg=#ff0000
 set ruler
 
 " Enable mouse support in all modes
-set mouse=a
+" set mouse=a
 
 " Enable relative line numbers (useful for navigation)
 set relativenumber
